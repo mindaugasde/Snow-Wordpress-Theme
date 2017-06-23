@@ -10,4 +10,21 @@ Plugins:
 - Contact Form 7 (free)
 - Yoast SEO (free)
 
+Screenshots:
+
+* Front page
+![Front page](/_screenshots/front-page.png?raw=true)
+
+* Blog page
+![Blog page](/_screenshots/blog.png?raw=true)
+
+* Blog single page
+![Blog single page](/_screenshots/blog-single.png?raw=true)
+
+* Portfolio page
+![Portfolio page](/_screenshots/portfolio.png?raw=true)
+
+* Portfolio single page
+![Portfolio single page](/_screenshots/portfolio-single.png?raw=true)
+
 Have a nice day :)
