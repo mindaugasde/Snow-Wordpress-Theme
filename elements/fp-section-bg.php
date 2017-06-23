@@ -1,0 +1,1 @@
+<?php if($bg || $color): ?> style="<?php if($color): ?>background-color:<?php echo $color; ?>;<?php elseif($bg): ?>background-image:url('<?php echo $bg; ?>');<?php endif; ?>"<?php endif; ?>
