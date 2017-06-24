@@ -1,0 +1,135 @@
+{
+    "key": "group_5948c359c5310",
+    "title": "Front Page Sections",
+    "fields": [
+        {
+            "key": "field_5948c37045af5",
+            "label": "Section-1",
+            "name": "s_fps_section-1",
+            "type": "relationship",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "page"
+            ],
+            "taxonomy": [],
+            "filters": [
+                "search",
+                "post_type",
+                "taxonomy"
+            ],
+            "elements": "",
+            "min": "",
+            "max": 1,
+            "return_format": "id"
+        },
+        {
+            "key": "field_5948e32ca03a5",
+            "label": "Section-2",
+            "name": "s_fps_section-2",
+            "type": "relationship",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "page",
+                "page"
+            ],
+            "taxonomy": [],
+            "filters": [
+                "search",
+                "post_type",
+                "taxonomy"
+            ],
+            "elements": "",
+            "min": "",
+            "max": 1,
+            "return_format": "id"
+        },
+        {
+            "key": "field_594a52a981e3a",
+            "label": "Section-3",
+            "name": "s_fps_section-3",
+            "type": "relationship",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "page",
+                "page"
+            ],
+            "taxonomy": [],
+            "filters": [
+                "search",
+                "post_type",
+                "taxonomy"
+            ],
+            "elements": "",
+            "min": "",
+            "max": 1,
+            "return_format": "id"
+        },
+        {
+            "key": "field_594a6ec753baa",
+            "label": "Section-4",
+            "name": "s_fps_section-4",
+            "type": "relationship",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "page",
+                "page"
+            ],
+            "taxonomy": [],
+            "filters": [
+                "search",
+                "post_type",
+                "taxonomy"
+            ],
+            "elements": "",
+            "min": "",
+            "max": 1,
+            "return_format": "id"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page_type",
+                "operator": "==",
+                "value": "front_page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1498290310
+}
